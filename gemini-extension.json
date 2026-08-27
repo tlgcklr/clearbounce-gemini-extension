@@ -1,0 +1,15 @@
+{
+  "name": "clearbounce",
+  "version": "1.0.0",
+  "description": "Verify email addresses and find business emails with ClearBounce — real-time deliverability checks right from Gemini CLI.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "clearbounce": {
+      "httpUrl": "https://clearbounce.net/mcp",
+      "headers": {
+        "x-api-key": "$CLEARBOUNCE_API_KEY"
+      },
+      "timeout": 60000
+    }
+  }
+}
