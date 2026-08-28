@@ -6,6 +6,7 @@ Verify email addresses and find business emails without leaving your terminal. T
 
 - **Verify any email address** — real-time syntax, domain, and mailbox checks with a clear `deliverable` / `risky` / `undeliverable` verdict.
 - **Find business emails** — give a name and a company domain, get likely address candidates for free.
+- **Clean whole lists** — hand over up to 10,000 addresses as one bulk job and get a deliverability summary back.
 - **Check your credit balance** at any time.
 
 ## Installation
